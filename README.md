@@ -1,4 +1,4 @@
-# Project_06EX
+# AD_ex06EX
 
 #연습용 각종 예제모음 
 
